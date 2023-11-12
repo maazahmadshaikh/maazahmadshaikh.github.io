@@ -1,2 +1,10 @@
+# Site settings
+title: Great New Blog Title
+author:
+name: Maaz Ahmad Shaikh
+email: maazahma@ualberta.ca
+description: "Personal Website"
+
+# Build settings
 theme: jekyll-theme-cayman
 
