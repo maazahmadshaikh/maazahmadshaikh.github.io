@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Resources"
+---
+
 # Resources
 
 Here you can find resources related to:
