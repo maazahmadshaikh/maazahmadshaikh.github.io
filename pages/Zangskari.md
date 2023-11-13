@@ -1,9 +1,13 @@
 # Zangskari
 
 [About the Language](#h.zcq25ngaubq4)
+
 [Geographical and Demographic Setting](#h.y7by2pu2flf8)
+
 [The Chadar Trek](#h.x5xm3nlq24t3)
+
 [The Number of Speakers and Language Endangerment](#h.6wslnj9szbng)
+
 [My Fieldwork](#h.8pa8cnhbjc1p)
 
 ### About the Language
