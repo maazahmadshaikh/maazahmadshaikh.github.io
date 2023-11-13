@@ -9,11 +9,11 @@ description: "Personal Website"
 theme: minima
 
 header_pages:
-  - Background.md
-  - Languages.md
-  - CV.md
-  - Resources.md
-  - Contact-Me.md
+  - pages/Background.md
+  - pages/Languages.md
+  - pages/CV.md
+  - pages/Resources.md
+  - pages/Contact-Me.md
 
 
 twitter_username: gyani_jahil
