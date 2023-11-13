@@ -8,6 +8,13 @@ description: "Personal Website"
 # Build settings
 theme: minima
 
+header_pages:
+  - Background.html
+  - Languages.html
+  - CV.html
+  - Resources.html
+  - Contact-Me.html
+
 twitter_username: gyani_jahil
 github_username:  maazahmadshaikh
 facebook_username: Maaz Ahmad Shaikh
