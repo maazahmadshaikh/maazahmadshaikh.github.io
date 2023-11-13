@@ -28,39 +28,6 @@
 
 ## About the Language
 
-Azamgarhi is a unique Indo-Aryan language spoken exclusively by a significant Muslim population in the whole of Azamgarh and Mau districts and in the areas of Jaunpur district bordering the Azamgarh district in the Purvanchal region of the state of Uttar Pradesh (UP), India. It falls in the Central zone of Indo-Aryan, further sub-categorized in the Eastern Hindi group, with Awadhi being its closest relative and also the base language. Azamgarhi is popularly called Musalmān Boli (the Muslim dialect/speech) as opposed to Hinduānā Boli (the Hindu dialect/speech), which is generally referenced to the Bhojpuri spoken in Azamgarh. [For a detailed classification of Azamgarhi into the Indo-Aryan family, visit this link](https://sites.google.com/view/maazshaikh/languages?authuser=0).
-
-(Azamgarhi description in Urdu and Hindi is omitted from this conversion for brevity.)
-
-## Azamgarhi Language Map
-
-Here's a map illustrating the linguistic boundaries of Azamgarhi and its dialects. In the Azamgarhi dialect continuum, there are a number of local varieties spoken that considerably differ from each other.
-
-## Documentation of Azamgarhi
-
-The overall project is aimed at holistic and comprehensive documentation of the Azamgarhi language. The principal purpose of comprehensive documentation and research on this language along with archiving the documented materials is to attract attention and research on this not only understudied language but also a variety unknown to many in the linguistic academia.
-
-## Fieldwork
-
-Data was primarily elicited in the Azamgarh district of U.P. in two field trips, each being around three-week-long, and also from my relatives back at my hometown in the city of Mumbai.
-
-## Archiving
-
-The documented materials of the Azamgarhi language are archived at the ‘The Computational Resource for South Asian Languages’ (CoRSAL), a digital archive for minority languages of South Asia, part of the University of North Texas (UNT) Digital Library.
-
-## Azamgarhi (SayMore-ELAN-) FLEx Project
-
-Transcriptions, translations, and interlinear glossing of selected texts have been done. A FLEx project for the linguistic analyses of these files hosts more than a thousand lexical items in its corpus.
-
-## Language Revitalization
-
-A special presentation of documented Azamgarhi traditional stories on YouTube can be accessed [here](https://www.youtube.com/playlist?list=PLRt2XC79sI4atObD-mM59oLaNaZPVBcSO).
-
-
-
-
-## About the Language
-
 Azamgarhi is a unique Indo-Aryan language spoken exclusively by a significant Muslim population in the whole of Azamgarh (26°36'00" N, 83°11'24" E) and Mau (25°56'30" N, 83°33'40" E) districts and in the areas of Jaunpur district (25°45' N, 82°45' E) bordering the Azamgarh district in the Purvanchal region of the state of Uttar Pradesh (UP), India. It falls in the Central zone of Indo-Aryan, further sub-categorized in the Eastern Hindi group, with Awadhi being its closest relative and also the base language. For a detailed classification of Azamgarhi into the Indi-Aryan family, visit [this link](https://sites.google.com/view/maazshaikh/languages?authuser=0#h.p9i4xlmugxo1). Azamgarhi is popularly called Musalmān Boli (the Muslim dialect/ speech) as opposed to Hinduānā Boli (the Hindu dialect/ speech), which is generally referenced to the Bhojpuri spoken in Azamgarh. The influential Muslims of Azamgarh—who were members of the Darbār (court) of the Nawābs in the Kingdom of Oudh or Awadh state that lasted for more than a couple of hundreds of years—brought the then prestigious Awadhi language to Azamgarh where Bhojpuri is the vernacular. The language soon became popular and spread among the zamīndār (landholding) Muslims and from them to other (lower) class Muslims residing in the villages dominated by the zamīndār Muslims. The Muslims of the villages of Azamgarh, which are not populated by these zamīndār Muslims, speak Bhojpuri as their mother tongue like the rest of the population. Bhojpuri is the region's vernacular as well as the substrate language. At the same time, Urdu is the superstrate with very high socio-religious prestige attached to it in the highly diglossic Azamgarhi speech community. Due to influences from these two languages, in the time period of more than hundreds of years, Azamgarhi has diverged from its parent language Awadhi to such an extent that one can observe it to be linguistically distinct from the Awadhi of Awadh region. The native speakers of Azamgarhi do not associate their language with the parent language Awadhi and consider their speech to be different from Bhojpuri as well. This language is an interesting survival of the influence of the former Muhammadan Awadh Court of Lucknow.
 
 ### زبان كے بارے میں
