@@ -11,9 +11,9 @@ theme: minima
 header_pages:
   - Background.md
   - Languages.md
-  - CV.html
-  - Resources.html
-  - Contact-Me.html
+  - CV.md
+  - Resources.md
+  - Contact-Me.md
 
 
 twitter_username: gyani_jahil
