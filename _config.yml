@@ -9,8 +9,8 @@ description: "Personal Website"
 theme: minima
 
 header_pages:
-  - Background.html
-  - Languages.html
+  - Background.md
+  - Languages.md
   - CV.html
   - Resources.html
   - Contact-Me.html
