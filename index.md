@@ -4,7 +4,7 @@ layout: home
 
 # Home
 
-![Profile Photo](image/profile-photo.jpg
+![Profile Photo](image\profile-photo.jpg
 
 Hi! My name is Maaz Ahmad Shaikh [maːz ɛhməd ʃeːχ] {UR: معاذ احمد شیخ ; HI: माज़ अहमद शेख़}. You can also call me by my Ladakhi name Jigmet [dʒɪgmɛt̪] འཇིགས་མེད, given by Dr. [Rigdzin Angmo](https://uni-tuebingen.de/en/fakultaeten/philosophische-fakultaet/fachbereiche/asien-orient-wissenschaften/indologie/personen/bettina-zeisler/). Currently, I am a Graduate (Ph.D.) Research Scholar and Teaching Assistant at the University of Alberta, Edmonton, Canada. Prior to this, I was a Senior Research Fellow at the Centre for Linguistics, Jawaharlal Nehru University (JNU), New Delhi, India.
 
