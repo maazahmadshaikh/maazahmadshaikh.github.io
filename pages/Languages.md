@@ -8,13 +8,13 @@ Western Tibetan can be classified into two subgroups: Western Archaic Tibetan (W
 
 In the figure given below, I present a generalized classification of the varieties spoken in Ladakh, primarily from Zeisler (2011, 2018), besides other works. The dotted line separates the groups based on the formal distinction between an agent and a possessor, i.e., Shamskatic varieties on the left and Kenhatic varieties on the right.
 
-![Classification of Western Tibetic Varieties](images/classification-wt.jpg)
+![Classification of Western Tibetic Varieties](/images/classification-wt.jpg)
 
 ### Eastern Hindi
 
 The Eastern Hindi group can be divided into Chhattisgarhi, Powari, and Awadhic languages. The latter can be further subdivided as Bagheli, Awadhi, Fiji Hindi, Azamgarhi, and Un(der)documented Awadhi Varieties (spoken) Outside the Awadh Region (UAVOAR).
 
-![Classification of Eastern Hindi Varieties along with Urdu of Western Hindi and Bhojpuri of Bihari group given](images/classification-azamgarhi.jpg)
+![Classification of Eastern Hindi Varieties along with Urdu of Western Hindi and Bhojpuri of Bihari group given](/images/classification-azamgarhi.jpg)
 
 
 Most of the content on this site is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
