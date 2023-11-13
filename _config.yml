@@ -11,7 +11,7 @@ theme: minima
 header_pages:
   - pages/Background.md
   - pages/Languages.md
-  - pages/CV.md
+  - "https://drive.google.com/file/d/1xygt-G2NeFBpvjIcoDSBC8h3O_5BawRY/view?usp=sharing": "CV"
   - pages/Resources.md
   - pages/Contact-Me.md
 
