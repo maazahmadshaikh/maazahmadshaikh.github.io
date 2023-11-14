@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
-
 .home-page {
   display: flex;
   align-items: flex-start;
