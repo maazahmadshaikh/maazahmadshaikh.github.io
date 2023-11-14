@@ -25,8 +25,6 @@ Outside of linguistics, I enjoy gardening, cooking, coffee, cycling, hiking, tra
 
 ### Snapshots
 
-
-
 <footer>
     Most of the content on this site is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). &copy; 2023 Maaz Shaikh. All rights reserved.
 </footer>
