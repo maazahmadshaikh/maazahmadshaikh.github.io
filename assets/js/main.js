@@ -15,7 +15,11 @@ $('#lan').hide();
 
 // Hides all the divs in the particular, unless the first one
 $('.particular-clickable').next().hide();
-$('.particular-clickable').next()[0].style.display="block";
+var nextElement = $('.particular-clickable').next()[0];
+if (nextElement) {
+    nextElement.style.display = "block";
+}
+
 
 $(document).ready(function(){
 
