@@ -1,11 +1,6 @@
 /* MOBILE's FIRST - Custom properties */
 /* This classes will be then modified for bigger screens */
 
-#mowatave {
-	color: #2bd284 !important;
-	text-decoration: underline;
-}
-
 .underline {
 	text-decoration: underline;
 }
@@ -14,16 +9,12 @@ a {
 	text-decoration-thickness: 1px;
 }
 
-#hobbiesH4 {
+#snapshots {
 	text-align: center;
 }
 
-#hobbie1, #hobbie2, #hobbie3 {
-	text-align: center;
-	margin-top: 1em;
-}
 
-.abme-honors-bullet{
+.abme-recentupdates{
 	font-size: 16px;
 }
 
@@ -53,7 +44,7 @@ li > .active {
 	font-family: 'Lucida Console', monospace;
 }
 
-/* NICOLAS MESEGUER CONTACT INFO - Related*/
+/* MAAZ SHAIKH CONTACT INFO - Related*/
 .profilepicture {
 	max-height: 300px;
 	min-width: 200px;
@@ -292,13 +283,8 @@ li > .active {
 /* BIGGER SCREENS */
 @media (min-width: 768px) {
 
-	#hobbiesH4 {
+	#snapshots {
 		text-align: left;
-	}
-
-	#hobbie1, #hobbie2, #hobbie3 {
-		text-align: left;
-		margin-top: 0;
 	}
 
 	.profilepicture {
@@ -306,7 +292,7 @@ li > .active {
 		margin-right: 0%;
 	}
 	
-	.abme-honors-bullet{
+	.abme-recentupdates{
 		margin-left: 40px;
 	}
 }
