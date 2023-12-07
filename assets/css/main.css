@@ -296,3 +296,48 @@ li > .active {
 		margin-left: 40px;
 	}
 }
+
+/* SOCIAL MEDIA ICONS */
+.social-icon {
+  color: #000; /* Default color */
+}
+
+.social-icon.orcid i {
+  color: #A6CE39; /* ORCID color */
+}
+
+.social-icon.github i {
+  color: #333; /* GitHub color */
+}
+
+.social-icon.academia i {
+  color: #41454A; /* Academia color */
+}
+
+.social-icon.researchgate i {
+  color: #00CCBB; /* ResearchGate color */
+}
+
+.social-icon.google-scholar i {
+  color: #4285F4; /* Google Scholar color */
+}
+
+.social-icon.twitter i {
+  color: #1DA1F2; /* Twitter color */
+}
+
+.social-icon.facebook i {
+  color: #1877F2; /* Facebook color */
+}
+
+.social-icon.instagram i {
+  color: #C13584; /* Instagram color */
+}
+
+.social-icon.linkedin i {
+  color: #0077B5; /* LinkedIn color */
+}
+
+.social-icon.youtube i {
+  color: #FF0000; /* YouTube color */
+}
