@@ -297,7 +297,18 @@ li > .active {
 	}
 }
 
+.connect-text {
+  font-size: 1.5em; /* Increase font size */
+  display: block; /* Make it a block element to apply margin */
+  margin-bottom: 10px; /* Add some space below the text */
+}
+
+
 /* SOCIAL MEDIA ICONS */
+.social-media-icons i {
+  font-size: 1.5em; /* Increase icon size */
+  margin-right: 10px; /* Add space between icons */
+}
 .social-icon {
   color: #000; /* Default color */
 }
