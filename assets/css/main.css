@@ -44,6 +44,10 @@ li > .active {
 	font-family: 'Lucida Console', monospace;
 }
 
+/* Custom Footer Styles */
+.footer {
+    background-color: transparent; /* or use a specific color */
+}
 /* MAAZ SHAIKH CONTACT INFO - Related*/
 .profilepicture {
 	max-height: 300px;
