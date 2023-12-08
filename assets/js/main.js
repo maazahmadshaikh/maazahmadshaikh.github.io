@@ -83,22 +83,22 @@ $(document).ready(function(){
 
 	});
 
-	// Handle 'Education' content
-	$('#education').click(function(e) {
+	// Handle 'My Background' content
+$('#background').click(function(e) {
 
-		// If the div has already the class active, no need to reload the divs...
-		if(!$(e.target).hasClass('active')) {
-			// Update navbar
-			clearActiveLinks();
-			activateLink(e);
+    // If the div has already the class active, no need to reload the divs...
+    if(!$(e.target).hasClass('active')) {
+        // Update navbar
+        clearActiveLinks();
+        activateLink(e);
 
-			// Hide other contents
-			clearActiveDivs();
+        // Hide other contents
+        clearActiveDivs();
 
-			// Show current content
-			activateDiv('#educationContent');
-		}
-	});
+        // Show current content
+        activateDiv('#my-backgroundContent');
+    }
+});
 
 	// Handle 'Publications' content
 	$('#publications').click(function(e) {
