@@ -46,7 +46,7 @@ $(document).ready(function(){
 	$('<link>').appendTo('head').attr({
 		type: 'text/css', 
 		rel: 'stylesheet',
-		href: 'assets/css/light.css'
+		href: '/assets/css/light.css'
 	});
 	if (localStorage.theme == "dark") {
 		// Handle menu
@@ -54,7 +54,7 @@ $(document).ready(function(){
 		$('<link>').appendTo('head').attr({
 			type: 'text/css', 
 			rel: 'stylesheet',
-			href: 'assets/css/dark.css'
+			href: '/assets/css/dark.css'
 		});
 		$('#theme').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
 	}
