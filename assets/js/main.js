@@ -50,7 +50,7 @@ $(document).ready(function(){
 	});
 	if (localStorage.theme == "dark") {
 		// Handle menu
-		$("link[href='assets/css/light.css']").remove();
+		$("link[href='/assets/css/light.css']").remove();
 		$('<link>').appendTo('head').attr({
 			type: 'text/css', 
 			rel: 'stylesheet',
