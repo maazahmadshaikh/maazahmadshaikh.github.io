@@ -1,0 +1,51 @@
+# Site settings
+title: Maaz Ahmad Shaikh
+name: Maaz Ahmad Shaikh
+email: maazahma@ualberta.ca
+description: >-
+  PhD Candidate in Linguistics at the University of Alberta, specializing in 
+  language documentation and description of endangered Western Tibetic and 
+  Indo-Aryan languages.
+
+# URL settings
+baseurl: "" 
+url: "https://maazahmadshaikh.github.io"
+
+# Author information
+author:
+  name: Maaz Ahmad Shaikh
+  email: maazahma@ualberta.ca
+  orcid: "0000-0001-5645-3488"
+  github: maazahmadshaikh
+  twitter: gyani_jahil
+  
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /research/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      layout: "research"
