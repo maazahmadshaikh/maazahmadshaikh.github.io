@@ -4,17 +4,17 @@ title: Maaz Ahmad Shaikh
 cv_date: "01/2026"
 ---
 
-<div class="col-md-8 offset-md-1 mb-5 active" id="aboutContent">
+<div class="col-md-12 mb-5 active" id="aboutContent">
 
-Hi! My name is Maaz Ahmad Shaikh [maːz ɛhməd ʃeːχ] {UR: معاذ احمد شیخ ; HI: माज़ अहमद शेख़}. You can also call me by my Ladakhi name, Jigmet [dʒɪgmɛt̪] འཇིགས་མེད, given by [Dr. Bettina Zeisler (Rigdzin Angmo)](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/asien-orient-wissenschaften/indologie/personen/bettina-zeisler/).
+<p>Hi! My name is Maaz Ahmad Shaikh [maːz ɛhməd ʃeːχ] {UR: معاذ احمد شیخ ; HI: माज़ अहमद शेख़}. You can also call me by my Ladakhi name, Jigmet [dʒɪgmɛt̪] འཇིགས་མེད, given by <a href="https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/asien-orient-wissenschaften/indologie/personen/bettina-zeisler/">Dr. Bettina Zeisler (Rigdzin Angmo)</a>.</p>
 
-I am a PhD Candidate and Teaching Assistant in the Department of Linguistics at the University of Alberta, Edmonton, Canada. I expect to defend my dissertation, *Towards a grammatical description of Zangskari*, in April 2026. My supervisor is Jorge Rosés Labrada, and my committee members are Benjamin Tucker and Shobhana Chelliah. Prior to joining the University of Alberta, I was a Senior Research Fellow at the Centre for Linguistics, Jawaharlal Nehru University (JNU), New Delhi, India.
+<p>I am a PhD Candidate and Teaching Assistant in the Department of Linguistics at the University of Alberta, Edmonton, Canada. I expect to defend my dissertation, <em>Towards a grammatical description of Zangskari</em>, in April 2026. My supervisor is Jorge Rosés Labrada, and my committee members are Benjamin Tucker and Shobhana Chelliah. Prior to joining the University of Alberta, I was a Senior Research Fellow at the Centre for Linguistics, Jawaharlal Nehru University (JNU), New Delhi, India.</p>
 
-My research interests lie in the fields of language documentation and description, language planning and revitalization, grammar writing, morphosyntax, phonology, Western Tibetic and Indo-Aryan languages, and oral literature. My research focuses on the Western Tibetic (Ladakhi-Balti) languages of Ladakh, where I am currently engaged in the documentation of Zangskari, besides being interested in Purik/Purgi, Balti, Sham and Leh Ladakhi. In addition, I have documented Azamgarhi, a unique Indo-Aryan language which is also my heritage language. Besides Azamgarhi, I am keenly interested in the Indo-Aryan languages of the Awadh and Purvanchal regions of Uttar Pradesh state, India.
+<p>My research interests lie in the fields of language documentation and description, language planning and revitalization, grammar writing, morphosyntax, phonology, Western Tibetic and Indo-Aryan languages, and oral literature. My research focuses on the Western Tibetic (Ladakhi-Balti) languages of Ladakh, where I am currently engaged in the documentation of Zangskari, besides being interested in Purik/Purgi, Balti, Sham and Leh Ladakhi. In addition, I have documented Azamgarhi, a unique Indo-Aryan language which is also my heritage language. Besides Azamgarhi, I am keenly interested in the Indo-Aryan languages of the Awadh and Purvanchal regions of Uttar Pradesh state, India.</p>
 
-Outside of linguistics, I enjoy gardening, cooking, coffee, cycling, hiking, socializing, traveling, swimming, reading, and exploring nature.
+<p>Outside of linguistics, I enjoy gardening, cooking, coffee, cycling, hiking, socializing, traveling, swimming, reading, and exploring nature.</p>
 
-### Selected Highlights
+<h3 id="selectedhighlights" class="mt-4">Selected Highlights</h3>
 
 <ul class="recent-updates-list">
 <li><i class="fas fa-trophy"></i> December 2024 - Awarded the Firebird Foundation for Anthropological Research (FFAR) Oral Literature Grant for "Documentation of the Zangskari version of the Epic of Gesar". Amount: $9,990 USD.</li>
@@ -32,15 +32,15 @@ Outside of linguistics, I enjoy gardening, cooking, coffee, cycling, hiking, soc
 <li><i class="fas fa-award"></i> May 2022 - Received a Language Legacies grant from the Endangered Language Fund (ELF) for the documentation of Zangskari. Amount: $2,910 USD.</li>
 </ul>
 
-### Current Projects
+<h3 id="currentprojects" class="mt-4">Current Projects</h3>
 
-**Zangskari Gesar Epic Annotation** - Working on annotating and documenting the Zangskari version of the Epic of Gesar with support from the Firebird Foundation. This project involves creating multilingual subtitles and AI-generated visualizations to bring this oral tradition to life.
+<p><strong>Zangskari Gesar Epic Annotation</strong> - Working on annotating and documenting the Zangskari version of the Epic of Gesar with support from the Firebird Foundation. This project involves creating multilingual subtitles and AI-generated visualizations to bring this oral tradition to life.</p>
 
-**Dissertation Research** - Completing my paper-based dissertation on Zangskari grammar, with fieldwork conducted from 2020-2025 in Zangskar, Ladakh, India. The dissertation includes comprehensive documentation of phonology, morphology, and syntax.
+<p><strong>Dissertation Research</strong> - Completing my paper-based dissertation on Zangskari grammar, with fieldwork conducted from 2020-2025 in Zangskar, Ladakh, India. The dissertation includes comprehensive documentation of phonology, morphology, and syntax.</p>
 
-**Language Context Paper** - Manuscript on Zangskari language context submitted to *Language Documentation and Description* journal, with recent developments including correspondence about a newly discovered 1940s Zangskari Gospel translation.
+<p><strong>Language Context Paper</strong> - Manuscript on Zangskari language context submitted to <em>Language Documentation and Description</em> journal, with recent developments including correspondence about a newly discovered 1940s Zangskari Gospel translation.</p>
 
-### Project Snapshots
+<h3 id="snapshots" class="mt-4">Project Snapshots</h3>
 
 <div class="container">
 <div class="row mt-3">
