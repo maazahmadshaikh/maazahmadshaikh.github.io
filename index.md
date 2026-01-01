@@ -9,8 +9,7 @@ cv_date: "01/2026"
 <p>
 Hi! My name is Maaz Ahmad Shaikh [maːz ɛhməd ʃeːχ] 
 (UR: معاذ احمد شیخ; HI: माज़ अहमद शेख़).
-I am also known by my Ladakhi name, Jigmet [dʒɪgmɛt̪] འཇིགས་མེད,
-given by Dr. Bettina Zeisler (Rigdzin Angmo).
+I am also known by my Ladakhi name, Jigmet [dʒɪgmɛt̪] འཇིགས་མེད.
 </p>
 
 <p>
@@ -42,45 +41,44 @@ Outside of linguistics, I enjoy gardening, cooking, coffee, cycling, hiking,
 swimming, traveling, reading, and spending time in nature.
 </p>
 
-<p>
-<strong>Curriculum Vitae:</strong>
-<a href="/files/ShaikhM_CV.pdf">PDF (updated January 2026)</a>
-<br>
-<strong>Resume (industry / language technology):</strong>
-<a href="/files/ShaikhM_Resume.pdf">PDF</a>
-</p>
-
 <h3 id="selectedupdates" class="mt-4">Selected updates</h3>
 
 <ul class="recent-updates-list">
+
 <li>
-<i class="fas fa-trophy"></i>
-December 2024 – Awarded the Firebird Foundation for Anthropological Research
-(FFAR) Oral Literature Grant for
-<em>Documentation of the Zangskari version of the Epic of Gesar</em>
-($9,990 USD).
+<i class="fas fa-briefcase"></i>
+July 2025 – Began freelance Hindi localization work for Google’s Gemini AI model through SIDE Global.
 </li>
 
 <li>
 <i class="fas fa-file-alt"></i>
-December 2024 – Paper
-<em>Evolution of grammar writing in Tibetic: A study of best practices from 1831
-to the present</em> (with Jorge Emilio Rosés Labrada)
-accepted for publication in
+December 2024 – Paper <em>Evolution of grammar writing in Tibetic: A study of best practices from 1831 to the present</em>
+(with Jorge Emilio Rosés Labrada) accepted for publication in
 <em>Linguistics: An Interdisciplinary Journal of the Language Sciences</em>.
 </li>
 
 <li>
-<i class="fas fa-award"></i>
-September 2024 – Awarded the Digital Scholarship Fellowship,
-Digital Scholarship Centre, University of Alberta ($1,200 CAD).
+<i class="fas fa-trophy"></i>
+December 2024 – Awarded the Firebird Foundation for Anthropological Research (FFAR) Oral Literature Grant for
+<em>Documentation of the Zangskari version of the Epic of Gesar</em> ($9,990 USD).
 </li>
 
 <li>
-<i class="fas fa-briefcase"></i>
-July 2025 – Began freelance Hindi localization work for Google’s Gemini AI
-model through SIDE Global.
+<i class="fas fa-award"></i>
+2024–2025 – Digital Scholarship Fellowship, Digital Scholarship Centre, University of Alberta ($1,200 CAD).
 </li>
+
+<li>
+<i class="fas fa-handshake"></i>
+2024–2026 – Linguistics Colloquium Liaison, Department of Linguistics, University of Alberta.
+</li>
+
+<li>
+<i class="fas fa-award"></i>
+2023 – Mitacs Globalink Research Award: <em>Empowering communities to preserve their heritage: A citizen science approach to language documentation</em>
+($6,000 CAD).
+</li>
+
 </ul>
 
 <h3 id="currentprojects" class="mt-4">Current projects</h3>
