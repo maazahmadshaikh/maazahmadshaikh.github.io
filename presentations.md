@@ -3,8 +3,6 @@ layout: default
 title: Presentations - Maaz Ahmad Shaikh
 ---
 
-# Presentations
-
 ## Refereed conference talks
 
 **2025**
