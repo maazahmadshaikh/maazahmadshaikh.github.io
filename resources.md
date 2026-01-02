@@ -9,4 +9,4 @@ Here you can find resources related to:
 
 - [Documentation & Description](/resources/documentation-description)
 - [General Linguistics](/resources/general-linguistics)
-- [Language Learning](/resources/language-learning)
+<!--- [Language Learning](/resources/language-learning) --->
