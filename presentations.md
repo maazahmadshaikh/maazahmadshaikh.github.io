@@ -3,25 +3,25 @@ layout: default
 title: Presentations - Maaz Ahmad Shaikh
 ---
 
-## Presentations
+# Presentations
 
 ## Refereed conference talks
 
 **2025**
 
-- **Shaikh, Maaz & Benjamin Tucker.**  
+- **Shaikh, Maaz** & Benjamin Tucker.  
   *Zangskari fricatives: Acoustic and articulatory cues.*  
   Alberta Conference on Linguistics (ACOL), University of Alberta, Edmonton, Canada,  
   22 November 2025.  
   [Slides](https://www.researchgate.net/publication/399339159_Zangskari_fricatives_Articulatory_and_acoustic_cues){:target="_blank"}
 
-- **Shaikh, Maaz & Benjamin Tucker.**  
+- **Shaikh, Maaz** & Benjamin Tucker.  
   *An articulatory description of the Zangskari coronal obstruents.*  
   International Conference on Sino-Tibetan Language and Linguistics (ICSTLL-58),  
   University of Bern, Switzerland, 3–5 September 2025.  
   [Slides](https://www.researchgate.net/publication/396402403_An_Articulatory_Description_of_the_Zangskari_Coronal_Obstruents){:target="_blank"}
 
-- **Shaikh, Maaz & Allan Plesniarski.**  
+- **Shaikh, Maaz** & Allan Plesniarski.  
   *Building automatic speech recognition tools for Zangskari using a documentary corpus.*  
   21st International Association of Ladakh Studies Conference (IALS-21),  
   Kargil, Ladakh, India, 29–30 August 2025.  
