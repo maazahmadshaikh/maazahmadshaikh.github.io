@@ -121,7 +121,7 @@ M.Phil. thesis, Jawaharlal Nehru University, New Delhi.
 **Shaikh, Maaz**. 2019.  
 Interrogation in Ladakhi.  
 M.A. thesis, University of Delhi, Delhi.  
-<a href="#shaikh-2019-ma-bibtex">BibTeX</a>
+[PDF](https://zenodo.org/records/5841251){:target="_blank"} | <a href="#shaikh-2019-ma-bibtex">BibTeX</a>
 
 <details id="shaikh-2019-ma-bibtex">
 <summary>BibTeX Citation</summary>
