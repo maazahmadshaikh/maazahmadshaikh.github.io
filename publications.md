@@ -110,7 +110,7 @@ M.Phil. thesis, Jawaharlal Nehru University, New Delhi.
   year    = {2021},
   school  = {Jawaharlal Nehru University},
   address = {New Delhi, India},
-  type    = {{M.Phil.} thesis},
+  type    = {{M.Phil. thesis},
   url     = {https://digital.library.unt.edu/ark:/67531/metadc2125342/}
 }
 ```
