@@ -3,32 +3,87 @@ layout: default
 title: Zangskari Language - Maaz Ahmad Shaikh
 ---
 
-# About the Zangskari Language
+## At a glance
 
-Zangskar Tibetan or more commonly Zangskari, also spelled as Zanksari, (Written Tibetan WT: ཟངས་དཀར དཔེ་ར ; Wylie transliteration: zangs.dkar dpe.ra, Zangskari pronunciation: zãhar ɸera, Leh Ladakhi pronunciation: zaŋskar spera) is a phonologically innovative non-tonal variety of Tibetan spoken in the Zangskar region of Kargil district in the Union Territory of Ladakh, the northwestern part of India. It is classified as Western Innovative Tibetan (WIT), in which the Old Tibetan (OT) consonants and their clusters have been simplified as opposed to Western Archaic Tibetan (WAT) varieties such as Balti, Purik, and Sham Ladakhi, which have retained them. Moreover, in Zangskari, the consonant clusters are simplified majorly by fricativization (which is evident from the autonym of the language itself). In contrast, its sister WIT varieties such as Upper Ladakhi or Changskat, and those spoken in Lahaul-Spiti in the adjoining state of Himachal Pradesh, do so majorly by consonant deletion, tonogenesis (in some of the eastern varieties bordering Tibet), and somewhat by fricativization, which makes Zangskari differ considerably from other Tibetic varieties spoken in the region. For a more detailed classification of Zangskari in the Western Tibetan group, follow [this link](/research).
+- **Language name (English):** Zangskari  
+- **Autonyms:** \xm{zãhaɹ ɸeɹa}, \xm{zãhaɹe ldau} :contentReference[oaicite:0]{index=0}  
+- **ISO 639-3:** `zau` :contentReference[oaicite:1]{index=1}  
+- **Glottolog:** `zang1248` :contentReference[oaicite:2]{index=2}  
+- **Family:** Tibeto-Burman → Bodish → Tibetic → Western Tibetic :contentReference[oaicite:3]{index=3}  
+- **Where it is spoken (core areas):**
+  - Zangskar Valley (Ladakh, India)
+  - Rangdum region (Suru Valley, Ladakh, India)
+  - Paldar Valley (Kishtwar, Jammu & Kashmir, India) :contentReference[oaicite:4]{index=4}  
+- **Speaker estimates (published range):** roughly **5,000–12,000** (existing figures vary widely; updated survey work is needed) :contentReference[oaicite:5]{index=5}  
+- **Vitality (as reported in major references):** typically described as **threatened / definitely endangered / shifting** :contentReference[oaicite:6]{index=6}  
 
-According to Zeisler (2011:243), the Zanskar dialects are relatively homogeneous, but are classified into four groups by the speakers themselves: Stod or Upper Zangskari along the Doda river, Zhung or Central Zangskari, around the valley of Padum, Sham or Lower Zangskari along the lower course of the Zanskar river, and Lungnak 'Black Valley' along the upper course of the Zanskar river.
+---
 
-## Geographical and Demographic Setting
+## Where Zangskari is spoken
 
-Zanskar is a high-altitude, semi-desert region that covers about 7,000 square kilometers at an elevation of 3,500 to 7,135 meters. The region has a population of 13,849, according to a 2006 medical census, the majority of which are Buddhists. However, around 300 Muslims settled in the main town Padum and the neighboring village of Ufti. High mountain ridges cover this region from both sides of the valley, which runs north-west to south-east. Outside access is challenging, and communication with the neighboring Himalayan areas is maintained by crossing the high mountain passes or along the Zanskar River when frozen. It was not until 1979 that the only road to Zanskar from Kargil via the Suru valley over the Penzi-La was built to connect Padum, the administrative center of Zanskar, with the rest of the Himalayan areas. Along with the newly constructed road via the Singe-La, this road remains open for just five months a year, from June to October, due to heavy snowfall in the rest of the months blocking these two high passes. In broad valleys such as the Stod and Upper Zanskar, with villages on both sides, it may need a two-day journey between farms within shouting distances of each other (Osmaston et al. 1994:50). These topographic features make it one of the remotest and harshest inhabitable places on the earth.
+- **Main concentration:** villages across the Zangskar Valley in today’s **Kargil district (UT Ladakh)** :contentReference[oaicite:7]{index=7}  
+- **Additional areas:**  
+  - **Rangdum** (often treated as part of the wider Zangskar-speaking region in regional descriptions) :contentReference[oaicite:8]{index=8}  
+  - **Paldar (Kishtwar):** a Tibetic-speaking community whose variety patterns very closely with core Zangskari in my recent interactions (see “Varieties and dialects” below) :contentReference[oaicite:9]{index=9}  
 
-## The Chadar Trek
+---
 
-During the winters for about six months, from late November to early May, the Zanskar Valley gets cut off from the surrounding areas due to heavy snowfall blocking the only road to Zanskar from Kargil. For the Zangskarpas, the only possible way to get out of Zanskar is to trek the Zanskar river when it is entirely frozen, most suitably in the month of January and early February when the surrounding temperature plummets to as low as -30 to -35 ̊ C leading to a formation of a thick sheet of ice on the surface of the river. Hence the trek is famous by the name Chadar Trek ('Chadar' in Urdu means sheet). This trek starts from Lingshed near Zangla up to Chilling, from where one can take the road to reach Nimoo, from where they can easily reach Leh via the Indus Valley road. Almost every Zanskarpa has experienced this trek at least more than once, primarily because of necessity rather than adventure. Once the road from Chilling to Padum is complete, which is likely in a couple of years, this trek will eventually be rendered obsolete. The Chadar trek has a lot of significance for the locals. It is the only available option to enter or exit Zanskar during its natural blockade every year. There are quite a few vlogs and articles available on this trek.
+## Administrative context (why this matters for language)
 
-## The Number of Speakers and Language Endangerment
+- Zangskar is currently treated as a subdivision within **Kargil district**, with local governance organized through units such as tehsils/blocks/panchayats (terminology varies by administrative source). :contentReference[oaicite:10]{index=10}  
+- Recent policy announcements indicate a plan for **Zangskar to become a district by 2028**, alongside other proposed districts in Ladakh. If implemented, this could affect schooling, cultural programming, and other domains that shape language use. :contentReference[oaicite:11]{index=11}  
 
-Socio-politically, Zangskari is regarded as a dialect of the Ladakhi language along with other varieties such as Lehskat, Shamskat, Nubraskat, and Changskat. However, linguistically, it has a language status of its own and is recognized by the ISO 639-3 Code: zau and Glottocode: zang1248. Ethnologue mentions 11,400 speakers of this language (according to the 2001 census), and its status is listed as 'threatened'. This figure cannot be relied on, since politically, the language is clubbed as a dialect of Ladakhi as well as the source of the census data being nearly two decades old; rather, the actual current figure may be much lower. According to van Driem (2007:347), the possible number of speakers of Zangskar Tibetan is around 8,000, and its status is 'endangered'. Glottolog mentions its AES status as shifting, and the language is 'threatened'.
+---
 
-Due to poor infrastructure for basic necessities, especially education, the younger generation spends their early childhood in the Zanskar valley. In the past couple of decades, Zangskari families send their children to Kargil or Leh even before completing their high school to pursue a better education and a promising future. Since the Zangskari children stay far away from their families, often with no communication at all for months, they are losing native fluency in their mother tongue. Also, when these children migrate to Kargil or Leh town (or even to other parts of India), they start acquiring the local variety along with Hindi-Urdu. Even when they speak Zangskari with their family members or other Zangskari friends, they mix the Leh koiné to a great extent. Most of the younger speakers believe that only the elders speak the pure form of Zangskari as they spend almost all their life in Zanskar itself. Nowadays, in Ladakh, it is not uncommon for a Buddhist person to marry someone outside their linguistic/ethnic area, provided they are Buddhist. Hence a significant amount of Zangskarpas (the Zangskari people) marry other non-Zangskari Ladakhis. In many cases, their children fail to acquire native fluency in Zangskari. Due to all these reasons, the language is obviously experiencing a rapid shift.
+## Varieties and dialects
 
-## My Fieldwork
+A practical working division used in my write-up (and broadly consistent with community-oriented grouping) includes:
 
-My journey into the heart of the Zangskar region in September 2020 marked the beginning of an extensive fieldwork endeavor aimed at documenting the Zangskari language. Over the course of two weeks, I immersed myself in the local culture, engaging with native speakers and recording their linguistic practices. This fieldwork was not just about language documentation; it was an exploration of the rich cultural tapestry of Zanskar. I conducted interviews, recorded narratives, and collected linguistic data that provided invaluable insights into the phonological and syntactic aspects of Zangskari. The experience was enlightening, revealing the nuances of a language shaped by its remote and rugged geographical setting.
+- **Upper Zangskari (Stod)** — associated with the Stod/Doda river corridor :contentReference[oaicite:12]{index=12}  
+- **Central Zangskari (Zhung/Zhungkor)** — centered around the Padum plain area :contentReference[oaicite:13]{index=13}  
+- **Lower Zangskari (Sham)** — downstream stretches of the Zangskar river :contentReference[oaicite:14]{index=14}  
+- **Lungnak (Lungna[k])** — the Lungnak/Lungna region :contentReference[oaicite:15]{index=15}  
+- **Paldar (Kishtwar) as an additional variety:** based on my 2025 interactions with multiple speakers and their own self-identification, I treat the Tibetic variety of Paldar as part of the Zangskari dialect continuum. :contentReference[oaicite:16]{index=16}  
 
-## About the Collection and Archiving
+Notes I keep in mind when writing about “dialects” here:
 
-The Zangskari language collection, a culmination of my fieldwork, is a testament to the linguistic diversity and cultural richness of the Zanskar region. This collection, housed at the CoRSAL archive, includes a diverse array of materials such as audio-visual recordings of natural conversations, folklore, traditional songs, and personal narratives. These resources not only serve as a linguistic repository but also offer a window into the daily lives and cultural practices of the Zangskari people. The collection is continually being expanded, with new materials being added as part of ongoing documentation efforts.
+- Variation is not only between regions; it can also be noticeable **within** the same village (and even within families), so these labels are best treated as **convenient groupings**, not hard boundaries. :contentReference[oaicite:17]{index=17}  
 
-<iframe src="https://digital.library.unt.edu/explore/collections/ZSLR/" width="100%" height="600" style="border:none;"></iframe>
+---
+
+## Naming and label choice
+
+- Zangskari is referred to by multiple names across communities and scholarly traditions.  
+- On this website, I use **“Zangskari”** as my consistent English label because it aligns well with local recognition while also being clear for academic indexing and cross-referencing. :contentReference[oaicite:18]{index=18}  
+
+---
+
+## My work on Zangskari (documentation and analysis)
+
+- **Doctoral research focus:** documentary description of Zangskari (with a strong emphasis on phonetics/phonology within a broader grammatical description). :contentReference[oaicite:19]{index=19}  
+- **Fieldwork timeline (Zangskar):**
+  - Pilot: **Sep–Oct 2020**
+  - Major trips: **Jul–Aug 2022**, **Jul–Aug 2023**
+  - Most recent: **Jun–Aug 2025** :contentReference[oaicite:20]{index=20}  
+- **Archiving:** Zangskari materials are deposited with **CoRSAL** (University of North Texas). :contentReference[oaicite:21]{index=21}  
+- **Current linked projects (high level):**
+  - **Epic of Gesar (Zangskari version):** annotated audiovisual corpus + multilingual subtitles; experimentation with AI-supported visual materials for broader access :contentReference[oaicite:22]{index=22}  
+  - **Dissertation corpus:** documentary dataset used for phonological and grammatical analysis :contentReference[oaicite:23]{index=23}  
+  - **Language context manuscript:** historical/social setting for interpretation of language practices and transmission :contentReference[oaicite:24]{index=24}  
+
+---
+
+## Why the “outdated” parts matter (and what I now emphasize)
+
+When I update this page, I try to keep the emphasis on factors that directly relate to documentation and transmission:
+
+- **Mobility and education:** schooling outside the valley, long stays away from family, and contact with regional lingua francas can affect proficiency and everyday use (domain shift). :contentReference[oaicite:25]{index=25}  
+- **Administration and infrastructure:** changes in governance and connectivity can reshape which languages get used in school, public services, and work. :contentReference[oaicite:26]{index=26}  
+
+---
+
+## Links
+
+- **Research overview (language families / projects):** [/research](/research)  
+- **Publications:** [/publications](/publications)  
+- **Presentations:** [/presentations](/presentations)  
