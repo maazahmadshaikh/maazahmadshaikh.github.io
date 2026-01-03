@@ -3,26 +3,46 @@ layout: default
 title: Documentary Research on Languages - Maaz Ahmad Shaikh
 ---
 
-# Documentary Research on Languages
+# Documentary research on languages
 
-My research primarily focuses on two language groups: Western Tibetan and Eastern Hindi.
+My research is grounded in long-term, corpus-based documentary work on underdescribed and endangered languages. I work primarily on two language groups: **Western Tibetic** languages of Ladakh (India) and **Eastern Hindi** (Indo-Aryan) languages of north-central India. Across both areas, my work combines field-based documentation, phonetic and morphosyntactic analysis, archiving, and community-oriented engagement.
 
-## Western Tibetan
+---
 
-Western Tibetan can be classified into two subgroups: Western Archaic Tibetan (WAT) and Western Innovative Tibetan (WIT). The varieties that WAT consists of are the ones in which the initial consonant clusters and syllable-final consonants of the Old/Classical Tibetan are retained. In contrast, in the WIT varieties, they are simplified or lost with compensatory tonogenesis in some of the varieties. However, the further classification of the Western Tibetan varieties in these two subgroups is still quite rudimentary, and there is no such universally accepted classification. Following phonetic features alone, Zeisler (2011:235) classifies the dialects of the northwestern and central areas of Ladakh—Baltistan, Purik, Lower Ladakh (Sham), Nubra, and Leh into WAT group (the non-tonal 'conservative' dialects, showing initial and final consonant clusters) and dialects of the south-eastern areas of Ladakh—Upper Indus, Changthang and Zangskar into WIT group (the 'innovative' dialects where the clusters have been reduced and tonal features can be found).
+## Western Tibetic languages
 
-However, morpho-syntactically speaking, Zeisler (2011:236, 2018:78) broadly classifies the Ladakhi dialects into two groups: Shamskatic and Kenhatic. The former constituting the Shamskat dialects of Lower Ladakh in the north-west (Purik, Sham, Nubra), and the latter comprising the Kenhat dialects of Upper Ladakh in the south-east (Leh, Upper Indus, Lalok, the Changthang dialects at the border to China, Gya-Miru, and Zangskar). "One of the main differences between these two groups is that in the Kenhat dialects, no formal distinction is made between an agent and a possessor, whereas in the Shamskat dialects, these two roles are clearly distinguished" (Zeisler 2018:78). She asserts that the Tibetan varieties spoken in Himachal Pradesh (languages of Lahaul-Spiti) are closely linked to the Kenhat dialects, whereas the Balti dialects should perhaps be classified as a special subgroup of the Shamskat dialects, as they show significant differences in the use of verbal auxiliaries. The dialects of Purik further form a continuity with western Sham, while the Zangskar dialects pattern with the Upper Indus dialects (Zeisler 2018:78).
+My primary research focus is on **Zangskari**, a Western Tibetic language spoken in the Zangskar Valley of Ladakh, India. Since 2020, I have conducted sustained fieldwork on Zangskari, resulting in a growing audiovisual corpus spanning multiple genres, including personal narratives, historical narratives, interviews, and verbal art (notably the Zangskari version of the *Epic of Gesar*). My work aims to contribute both to linguistic theory and to long-term documentation and revitalization efforts.
 
-In the figure given below, I present a generalized classification of the varieties spoken in Ladakh, primarily from Zeisler (2011, 2018), besides other works. The dotted line separates the groups based on the formal distinction between an agent and a possessor, i.e., Shamskatic varieties on the left and Kenhatic varieties on the right.
+Western Tibetic varieties are often discussed in terms of **phonological conservatism versus innovation**, particularly with respect to the retention or loss of Old/Classical Tibetan consonant clusters. Following phonetic criteria, Zeisler (2011:235) proposes a broad distinction between:
 
-**Classification of Western Tibetic Varieties:**
+- **Western Archaic Tibetan (WAT)** varieties, which retain initial consonant clusters and syllable-final consonants and are typically non-tonal (e.g. Balti, Purik, Sham, Nubra, Leh), and  
+- **Western Innovative Tibetan (WIT)** varieties, in which clusters have been reduced or lost, often accompanied by compensatory tonogenesis (e.g. Upper Indus, Changthang, Zangskar).
 
-![Classification of Western Tibetic Varieties](/images/classification-wt.jpg)
+At the same time, purely phonetic classifications do not capture important **morphosyntactic divisions**. On morphosyntactic grounds, Zeisler (2011, 2018) distinguishes between two broader groupings within Ladakh:
 
-## Eastern Hindi
+- **Shamskatic varieties**, spoken primarily in north-western Ladakh (Purik, Sham, Nubra), and  
+- **Kenhatic varieties**, spoken in south-eastern Ladakh (Leh, Upper Indus, Changthang, Gya–Miru, and Zangskar).
 
-The Eastern Hindi group can be divided into Chhattisgarhi, Powari, and Awadhic languages. The latter can be further subdivided as Bagheli, Awadhi, Fiji Hindi, Azamgarhi, and Un(der)documented Awadhi Varieties (spoken) Outside the Awadh Region (UAVOAR).
+One salient difference between these groups is the treatment of **agent and possessor marking**: Kenhatic varieties do not formally distinguish between these roles, whereas Shamskatic varieties do (Zeisler 2018:78). In this framework, Zangskari patterns morphosyntactically with the Upper Indus and other Kenhatic varieties, despite its phonological innovations.
 
-**Classification of Eastern Hindi Varieties:**
+My work on Zangskari engages directly with these classification issues by providing detailed phonetic, phonological, and morphosyntactic evidence from a documentary corpus, contributing to a more empirically grounded understanding of variation and subgrouping within Western Tibetic.
 
-![Classification of Eastern Hindi Varieties along with Urdu of Western Hindi and Bhojpuri of Bihari group](/images/classification-azamgarhi.jpg)
+**Classification of Western Tibetic varieties:**
+
+![Classification of Western Tibetic varieties](/images/classification-wt.jpg)
+
+---
+
+## Eastern Hindi languages
+
+Alongside my work on Western Tibetic, I have carried out documentary and descriptive research on **Eastern Hindi (Indo-Aryan)** languages, with a particular focus on **Azamgarhi**, my heritage language.
+
+Eastern Hindi is commonly divided into **Chhattisgarhi**, **Powari**, and **Awadhic** subgroups. The Awadhic subgroup itself comprises several regional varieties, including **Awadhi**, **Bagheli**, **Fiji Hindi**, and a range of lesser-described or undocumented Awadhic varieties spoken outside the historical Awadh region.
+
+My M.Phil. research focused on **verb morphology in Azamgarhi**, an underdescribed Awadhic variety spoken in eastern Uttar Pradesh. Through fieldwork and corpus development, my work documents morphosyntactic patterns that both align with and diverge from better-described Awadhic varieties, highlighting the internal diversity of Eastern Hindi and the need for fine-grained documentation beyond standard language labels.
+
+In addition to Azamgarhi, I have worked comparatively on **Western Bhojpuri** of the greater Azamgarh region, particularly in relation to language contact, sociolinguistic influence, and structural variation in the Eastern Hindi–Bihari transition zone.
+
+**Classification of Eastern Hindi varieties (with Bhojpuri and Urdu shown for comparison):**
+
+![Classification of Eastern Hindi varieties](/images/classification-azamgarhi.jpg)
