@@ -37,7 +37,7 @@ The second consultant, **Nilza Angmo**, has a multilingual and multidialectal ba
 
 *Consultant Jigmet Dorje during a discussion session.*
 
-![Field methods cohort, University of Delhi](/images/documentation-ladakhi.jpg)
+<img src="/images/documentation-ladakhi.jpg" alt="Field methods cohort, University of Delhi" width="600">
 
 *Field Methods cohort (2017–2019) with supervisor Dr. Gail Coelho after the final session with consultant Nilza Angmo.*
 
