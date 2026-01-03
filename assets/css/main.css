@@ -120,73 +120,6 @@ li > .active {
 	font-weight: 100;
 }
 
-/* OPTION BUTTON */
-.options-button {
-    position: fixed;
-	
-    height: 50px;
-    width: 50px;
-	cursor: pointer;
-
-    border-radius: 100%;
-	
-	bottom: 25px;
-	right: 25px;
-
-	display: inline-block;
-
-	font-size: 1.2em;
-	vertical-align: middle;
-	text-align: center;
-
-	padding-top: .35em;
-}
-
-.options-button i, img {
-	margin: auto;
-	z-index: -999;
-}
-
-#options-toggler {
-	transition: .2s;
-}
-
-#options-toggler:hover {
-	transform: scale(1.09,1.09);
-}
-
-#theme {
-	height: 40px;
-    width: 40px;
-
-	bottom: 85px !important;
-	right: 30px !important;
-
-	font-size: 1em;
-
-	-webkit-transition: background-color .5s; /* For Safari 3.0 to 6.0 */
-    transition: background-color .5s; /* For modern browsers */
-}
-
-#lan {
-	height: 40px;
-    width: 40px;
-
-	bottom: 130px;
-	right: 30px;
-
-	font-size: 1em;
-
-	-webkit-transition: background-color .5s; /* For Safari 3.0 to 6.0 */
-    transition: background-color .5s; /* For modern browsers */
-}
-
-.lang-flag {
-	height: 15px;
-    width: 22.5px;
-	vertical-align:	0px;
-}
-
 /* BLOG - Related */
 .blog-info {
 	font-weight: 100;
@@ -356,3 +289,4 @@ li > .active {
 .social-icon.youtube i {
   color: #FF0000; /* YouTube color */
 }
+
