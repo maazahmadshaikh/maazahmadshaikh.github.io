@@ -133,7 +133,7 @@ M.A. thesis, University of Delhi, Delhi.
   year     = {2019},
   school   = {University of Delhi},
   address  = {Delhi, India},
-  type     = {{M.A.} thesis},
+  type     = {M.A. thesis},
   keywords = {Ladakhi, Tibetic, Western Tibetic}
 }
 ```
