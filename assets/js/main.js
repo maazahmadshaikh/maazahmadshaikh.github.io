@@ -168,76 +168,6 @@ $('#background').click(function(e) {
 		}
 	});
 
-	// Handle 'Conferences' content
-	// $('#conferences').click(function(e) {
-
-	// 	// If the div has already the class active, no need to reload the divs...
-	// 	if(!$(e.target).hasClass('active')) {
-	// 		// Update navbar
-	// 		clearActiveLinks();
-	// 		activateLink(e);
-
-	// 		// Hide other contents
-	// 		clearActiveDivs();
-
-	// 		// Show current content
-	// 		activateDiv('#conferencesContent');
-	// 	}
-	// });
-
-	// Handle 'Experience' content
-	// $('#experience').click(function(e) {
-
-	// 	// If the div has already the class active, no need to reload the divs...
-	// 	if(!$(e.target).hasClass('active')) {
-	// 		// Update navbar
-	// 		clearActiveLinks();
-	// 		activateLink(e);
-
-	// 		// Hide other contents
-	// 		clearActiveDivs();
-
-	// 		// Show current content
-	// 		activateDiv('#experienceContent');
-	// 	}
-	// });
-
-	// Handle 'Projects' content
-	// $('#projects').click(function(e) {
-
-	// 	// If the div has already the class active, no need to reload the divs...
-	// 	if(!$(e.target).hasClass('active')) {
-	// 		// Update navbar
-	// 		clearActiveLinks();
-	// 		activateLink(e);
-
-	// 		// Hide other contents
-	// 		clearActiveDivs();
-
-	// 		// Show current content
-	// 		activateDiv('#projectsContent');
-	// 	}
-	// });
-
-	/*
-	// Handle 'Template' content
-	$('#name').click(function(e) {
-
-		// If the div has already the class active, no need to reload the divs...
-		if(!$(e.target).hasClass('active')) {
-			// Update navbar
-			clearActiveLinks();
-			activateLink(e);
-
-			// Hide other contents
-			clearActiveDivs();
-
-			// Show current content
-			activateDiv('#nameContent');
-		}
-	});
-	*/
-
 	// Whenever you clic on a blog post, you should be redirected to that post' html
 	$('.clickable').click(function(e) {
 		window.open($(e.currentTarget)[0].childNodes[1].innerText, '_blank').focus();
@@ -264,13 +194,6 @@ $('#background').click(function(e) {
 		toastr.success('Citation copied');
 	});
 
-	// Controls the URL; if it has '#blog'
-	// then trigger the 'Blog' clic
-	// if (((window.location).href).substring(((window.location).href).lastIndexOf('#') + 1) == 'tutorials') {
-	// 	$('#tutorials').click();
-	// 	$('#tutorialsContent').focus();
-	// }
-
 	if (((window.location).href).substring(((window.location).href).lastIndexOf('#') + 1) == 'clases-particulares') {
 		$('#particular').click();
 		$('#particularContent').focus();
@@ -290,7 +213,7 @@ $('#background').click(function(e) {
 		}
 	})
 
-	// Animates the theme button + functionality
+	// Animates the theme button + functionality - FIXED PATHS
 	$('#theme').click(function(e) {
 		if(localStorage.theme != "dark"){
 
@@ -298,11 +221,11 @@ $('#background').click(function(e) {
 
 			localStorage.theme = "dark"
 			
-			$("link[href='assets/css/light.css']").remove();
+			$("link[href='/assets/css/light.css']").remove();
 			$('<link>').appendTo('head').attr({
 				type: 'text/css', 
 				rel: 'stylesheet',
-				href: 'assets/css/dark.css'
+				href: '/assets/css/dark.css'
 			});
 		}
 		else {
@@ -311,11 +234,11 @@ $('#background').click(function(e) {
 
 			localStorage.theme = "light"
 			
-			$("link[href='assets/css/dark.css']").remove();
+			$("link[href='/assets/css/dark.css']").remove();
 			$('<link>').appendTo('head').attr({
 				type: 'text/css', 
 				rel: 'stylesheet',
-				href: 'assets/css/light.css'
+				href: '/assets/css/light.css'
 			});
 		}
 	})
