@@ -3,28 +3,53 @@ layout: default
 title: Ladakhi Language - Maaz Ahmad Shaikh
 ---
 
-# About the Language
+## About the language
 
-Ladakhi (Written Tibetan WT: ལ་དྭགས་སི་སྐད, Wylie Transliteration: la.dwags.si.skat) is a phonologically archaic variety of Tibetan spoken in Ladakh, India. The term 'Ladakhi', according to [Zeisler (2018:78)](https://escholarship.org/uc/item/8jq4t1ww){:target="_blank"}, refers to all the Western Tibetan varieties spoken in the Leh and Kargil districts of Ladakh, India. These varieties fall into two groups—Shamskatic Ladakhi and Kenhatic Ladakhi. For a more detailed classification, follow [this link](/research).
+Ladakhi (Written Tibetan: ལ་དྭགས་སི་སྐད; Wylie: *la.dwags.si.skad*) is a Western Tibetic language spoken in the Leh and Kargil districts of Ladakh, India. The term *Ladakhi* is often used as a cover label for several closely related Western Tibetic varieties spoken across the region. Following Zeisler (2018), these varieties can be broadly grouped into **Shamskatic** and **Kenhatic** Ladakhi, reflecting major morphosyntactic and phonological divisions within Ladakh.
 
-![Map of Ladakhi Language](/images/wt-dialect-map.jpg)
+Phonologically, many Ladakhi varieties are relatively conservative within Western Tibetic, retaining consonantal features traceable to Old or Classical Tibetan. At the same time, significant internal variation exists across the region, shaped by geography, contact, and historical mobility. For a broader overview of Western Tibetic classification, see the [research overview](/research).
 
-*Map Credits: [Bettina Zeisler](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/asien-orient-wissenschaften/indologie/mitarbeiter/bettina-zeisler/publikationen/){:target="_blank"}*
+![Map of Ladakhi language varieties](/images/wt-dialect-map.jpg)
 
-## Data and Methodology
+*Map credit: Bettina Zeisler*
 
-The Field Methods (Jan–May 2019) course taught by our advisor Dr. Gail Coelho was restricted to elicitation due to constraints in time and resources involved in physically going to the field. In this course, we chose Ladakhi since Jigmet Dorje, a Ladakhi native speaker, was residing in my hostel. The data for the study was mainly collected in two sessions a week with one and a half hours' duration, each over a period of three months in a formal classroom setting. Also, four more hours in two targeted group sessions dealing with interrogation-specific topics and a few extra sessions were also utilized to get an insight into the evidentiality issues in the language. Thus, the time spent collecting data was approximately 50 hours. Sessions were held in the Department of Linguistics, University of Delhi. Data collection in class was supervised by our instructor Dr. Coelho while the group sessions were unsupervised. Data elicitation began by using the 200-word modified Swadesh List (Swadesh 1952). We then made index cards with words for phonemic analysis. After figuring out phonemes and allophones, we began working on issues in morphosyntax. We worked with Jigmet roughly for the first two months but could not continue with him due to some unfortunate reasons. In the remaining month, we worked with Nilza Angmo, our second consultant.
+---
 
-The medium of communication during the elicitation with both consultants was primarily English. We gave English sentences and asked for their equivalents in Ladakhi. Care was taken to ensure that the sentences produced were natural and not just word-to-word translations. Since both of our consultants knew Hindi, we used it when it was easier to elicit using Hindi sentences. We also gave our consultants various constructed contexts to elicit data for issues concerning evidentiality, as the language is susceptible to pragmatics. In the later stages of data collection, we also asked for grammaticality judgments. We collected data on the following topics with Jigmet: Nouns, Adjectives, Negation, Interrogation, and Valency Change. Jigmet also worked with targeted groups for their first session. With Nilza, we worked on copulas, tenses, aspect, and mood. She worked with targeted groups for their second session. The focus of my group was on Interrogation. Our group prepared a questionnaire to elicit data, which was approved by our supervisor. We worked with Jigmet for Yes/No Questions, Wh-Questions, Multiple Wh-Questions, and Alternate Questions, which we elicited based on sentences that we had previously collected in classroom sessions. Our group worked with Nilza to get the declarative sentences of the question sentences we had collected earlier.
+## Research context and data
+
+My work on Ladakhi was conducted during my **M.A. field methods training (2019)** at the University of Delhi, where Ladakhi served as my primary language of analysis. Although this work was based on elicited data rather than in-situ fieldwork, it provided my first sustained engagement with Tibetic languages and laid the foundation for my later documentary research on Zangskari.
+
+Data were collected over approximately **50 hours** through regular elicitation sessions conducted in a classroom setting. Sessions were held primarily in English, with Hindi used where it facilitated more natural elicitation. Care was taken to elicit contextually appropriate utterances rather than word-for-word translations, and grammaticality judgments were incorporated in later stages of data collection.
+
+Initial elicitation drew on a modified Swadesh list (Swadesh 1952), followed by phonemic analysis using targeted lexical items. Subsequent sessions focused on morphosyntactic domains, including nominal structure, negation, interrogation, valency-changing operations, and tense–aspect–mood systems. Particular attention was paid to pragmatic and evidential distinctions, which play a significant role in Ladakhi discourse.
+
+---
+
+## Consultants
+
+Two primary consultants contributed to this work.
+
+The first consultant, **Jigmet Dorje** (aka Rigzin Gurmet), is from Basgo (Leh district). Due to early childhood residence in Ladakh followed by extensive education in Tibetan, his speech reflects notable influence from both colloquial and Classical Tibetan.
+
+The second consultant, **Nilza Angmo**, has a multilingual and multidialectal background, with exposure to Purik, Zangskari, and Leh varieties of Ladakhi. Her linguistic experience proved especially valuable in identifying and explaining dialectal variation observed during elicitation. Her familiarity with Hindi and Ladakhi also facilitated comparative elicitation across registers and contexts.
 
 ![Consultant Jigmet Dorje](/images/ladakhi-with-jigmet.jpg)
 
-*A few of my classmates and I met with our first consultant, Jigmet Dorje (in black), after our discussion session.*
+*Consultant Jigmet Dorje during a discussion session.*
 
-![MA batch of 2017-19 with Dr. Gail Coelho](/images/documentation-ladakhi.jpg)
+![Field methods cohort, University of Delhi](/images/documentation-ladakhi.jpg)
 
-*The MA batch of 2017-19, along with our supervisor, Dr. Gail Coelho (in orange), after the last session of Field Methods with our consultant Nilza Angmo (in striped pink).*
+*Field Methods cohort (2017–2019) with supervisor Dr. Gail Coelho after the final session with consultant Nilza Angmo.*
 
-## Background of our Consultants
+---
 
-Jigmet hails from Basgo, a town situated on the bank of the Indus River in Leh district, Ladakh. Since he spent only his first eight years in Ladakh and thereafter had extensive education and interaction in Classical and colloquial Tibetan, his Ladakhi speech marks plenty of Tibetan influence. Our second consultant Nilza Angmo hails from Wakha village in Kargil district from her mother's side and Zangskar tehsil from her father's side. Her family members speak the Purik variety at her home, and with her father's family, she speaks the Zangskari variety. However, she feels comfortable speaking both dialects with the same fluency. She lived in the Zangskar region for a short time. She was then schooled in Leh at Jawahar Navodaya Vidyalaya. The medium of instruction was Hindi, which she is pretty fluent in, and she used the Leh dialect there for social interactions. Since Nilza grew up being exposed to so many dialects, she is well aware of the dialectal differences in Ladakhi, which proved useful to us as she also pointed out the reasons behind the phonological differences in her speech and the previous consultant's speech. The data gathered and analyzed culminated in my M.A. thesis titled — 'Interrogation in Ladakhi'.
+## Analytical focus and outcomes
+
+My primary analytical focus during this project was **interrogative constructions in Ladakhi**, including yes–no questions, constituent questions, multiple *wh*-questions, and alternative questions. Declarative counterparts of interrogative structures were elicited to enable systematic comparison.
+
+The analysis culminated in my M.A. thesis:
+
+**_Interrogation in Ladakhi_**  
+University of Delhi (2019)
+
+This work provided a descriptive account of interrogative strategies in Ladakhi and introduced me to key issues in Tibetic morphosyntax, pragmatics, and elicitation methodology. More broadly, it served as a methodological and analytical precursor to my later corpus-based documentary work on Zangskari.
