@@ -7,9 +7,8 @@ cv_date: "01/2026"
 <div class="col-md-12 mb-5 active" id="aboutContent">
 
 <p>
-Hi! My name is Maaz Ahmad Shaikh [maːz ɛhməd ʃeːχ] 
+Hi! My name is Maaz Ahmad Shaikh [mäːz ɛhˈməd̪ ʃeːχ] 
 (UR: معاذ احمد شیخ; HI: माज़ अहमद शेख़).
-I am also known by my Ladakhi name, Jigmet [dʒɪgmɛt̪] འཇིགས་མེད.
 </p>
 
 <p>
