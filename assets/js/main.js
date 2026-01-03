@@ -7,11 +7,6 @@ $('#projectsContent').hide();
 $('#tutorialsContent').hide();
 $('#academicContent').hide();
 $('#particularContent').hide();
-/* Template
-$('#nameContent').hide();
-*/
-$('#theme').hide();
-$('#lan').hide();
 
 // Hides all the divs in the particular, unless the first one
 $('.particular-clickable').next().hide();
@@ -33,37 +28,24 @@ $(document).ready(function(){
 		if (window.matchMedia('(prefers-color-scheme: dark)').matches)
 			localStorage.theme = "dark";
 	}
-	
-	// First time, check the locale
-	let userLang = navigator.language || navigator.userLanguage;
-	if(localStorage.getItem("lan") === null){
-		localStorage.lan = "en";
-		if (userLang.split('-')[0] == "es")
-			localStorage.lan = "es";
-	}
 
-	// Maybe first time or not, so load the localStorage value
+	// Load the correct theme on page load
 	$('<link>').appendTo('head').attr({
 		type: 'text/css', 
 		rel: 'stylesheet',
 		href: '/assets/css/light.css'
 	});
+	
 	if (localStorage.theme == "dark") {
-		// Handle menu
 		$("link[href='/assets/css/light.css']").remove();
 		$('<link>').appendTo('head').attr({
 			type: 'text/css', 
 			rel: 'stylesheet',
 			href: '/assets/css/dark.css'
 		});
-		$('#theme').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
+		$('#theme-toggle').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
+		$('html').attr('data-theme', 'dark');
 	}
-	// Done because light is the one by default
-	if(localStorage.lan == "es") {
-		$('#lan img').attr("src","/assets/img/es_flag.webp");
-		$('#lan').addClass("es");
-	}
-	updateLanguage();
 
 	// Handle 'About Me' content
 	$('#aboutme').click(function(e) {
@@ -199,27 +181,13 @@ $('#background').click(function(e) {
 		$('#particularContent').focus();
 	}
 
-	// Controls the options menu
-	$('#options-toggler').click(function(e) {
-		if(!$(e.currentTarget).hasClass('active')) {
-			$(e.currentTarget).addClass('active');
-			$('#theme').show("fast");
-			$('#lan').show("fast");
-		}
-		else {
-			$(e.currentTarget).removeClass('active');
-			$('#theme').hide("fast");
-			$('#lan').hide("fast");
-		}
-	})
-
-	// Animates the theme button + functionality - FIXED PATHS
-	$('#theme').click(function(e) {
+	// Theme toggle button functionality
+	$('#theme-toggle').click(function(e) {
 		if(localStorage.theme != "dark"){
-
-			$('#theme').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
-
-			localStorage.theme = "dark"
+			// Switch to dark mode
+			$('#theme-toggle').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
+			localStorage.theme = "dark";
+			$('html').attr('data-theme', 'dark');
 			
 			$("link[href='/assets/css/light.css']").remove();
 			$('<link>').appendTo('head').attr({
@@ -229,10 +197,10 @@ $('#background').click(function(e) {
 			});
 		}
 		else {
-
-			$('#theme').empty().append("<i class='fa-duotone fa-lightbulb'></i>");
-
-			localStorage.theme = "light"
+			// Switch to light mode
+			$('#theme-toggle').empty().append("<i class='fa-duotone fa-lightbulb'></i>");
+			localStorage.theme = "light";
+			$('html').attr('data-theme', 'light');
 			
 			$("link[href='/assets/css/dark.css']").remove();
 			$('<link>').appendTo('head').attr({
@@ -241,36 +209,9 @@ $('#background').click(function(e) {
 				href: '/assets/css/light.css'
 			});
 		}
-	})
-
-	// Animates the lan button + functionality
-	$('#lan').click(function(e) {
-		if(!$(e.currentTarget).hasClass('es')){
-			$(e.currentTarget).addClass('es');
-
-			$('#lan img').attr("src","/assets/img/es_flag.webp");
-
-			localStorage.lan = "es"
-		}
-		else {
-			$(e.currentTarget).removeClass('es');
-
-			$('#lan img').attr("src","/assets/img/en_flag.webp");
-
-			localStorage.lan = "en"
-		}
-
-		updateLanguage();
-	})
+	});
 
 });
-
-function updateLanguage() {
-	let lang = localStorage.lan;
-	$(".language *").each(function(){
-		$(this).html( $(this).data(lang) );
-	});
-}
 
 function clearActiveLinks() {
 	$('#navbarList .nav-item .nav-link').each(function() {
