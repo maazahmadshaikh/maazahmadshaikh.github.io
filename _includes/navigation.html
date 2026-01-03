@@ -16,11 +16,11 @@
                 </li>
                 <!-- Dropdown for Research -->
                 <li class="nav-item dropdown">
-                    <a class="nav-link dropdown-toggle{% if page.url contains '/research' %} active{% endif %}" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                    <a class="nav-link dropdown-toggle{% if page.url contains '/research' %} active{% endif %}" href="{{ '/research' | relative_url }}" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                         Research
                     </a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                        <li><a class="dropdown-item" href="{{ '/research/research-index' | relative_url }}">Language Families</a></li>
+                        <li><a class="dropdown-item" href="{{ '/research' | relative_url }}">Language Families</a></li>
                         <li><a class="dropdown-item" href="{{ '/research/zangskari' | relative_url }}">Zangskari</a></li>
                         <li><a class="dropdown-item" href="{{ '/research/ladakhi' | relative_url }}">Ladakhi</a></li>
                         <li><a class="dropdown-item" href="{{ '/research/azamgarhi' | relative_url }}">Azamgarhi</a></li>
