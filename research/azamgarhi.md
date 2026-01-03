@@ -3,51 +3,59 @@ layout: default
 title: Azamgarhi Language - Maaz Ahmad Shaikh
 ---
 
-# Azamgarhi
+## About the language
 
-## About the Language
+Azamgarhi is an underdescribed **Indo-Aryan (Eastern Hindi / Awadhic)** language spoken in the Purvanchal region of Uttar Pradesh, India. It is closely related to Awadhi and has developed under sustained contact with **Urdu** and **Bhojpuri**, resulting in distinctive phonological, morphosyntactic, and lexical patterns. Within the local sociolinguistic ecology, Azamgarhi is often referred to as *Musalmān bolī*, in contrast to neighbouring Bhojpuri-speaking Hindu communities.
 
-Azamgarhi is a unique Indo-Aryan language spoken in the Purvanchal region of Uttar Pradesh, India. It's closely related to Awadhi and is known locally as Musalmān Boli, contrasting with the Bhojpuri-speaking Hindu population. Influenced by Urdu and Bhojpuri, Azamgarhi has evolved significantly from Awadhi. For a detailed classification, visit [this link](/research).
+Despite its widespread everyday use in parts of eastern Uttar Pradesh, Azamgarhi lacks official recognition and remains largely absent from formal education and institutional domains.
 
-- **Location**: Spoken in Azamgarh, Mau, and parts of Jaunpur district.
-- **Dialects**: Southern (Dakkhin wālī bōlī), Northern (Uttar wālī bōlī), and Eastern (Pūrab wālī bōlī).
-- **Recognition**: Identified by Glottolog code azam1235 but lacks official recognition in India.
-- **Current Status**: Under pressure from Urdu, Hindi, and English, and not widely passed to younger generations.
+- **Location**: Primarily spoken in Azamgarh and Mau districts, with extensions into parts of Jaunpur district  
+- **Dialectal variation**: Southern (*Dakkhin wālī bolī*), Northern (*Uttar wālī bolī*), and Eastern (*Pūrab wālī bolī*) varieties  
+- **Classification**: Awadhic (Eastern Hindi); listed in Glottolog (azam1235)  
+- **Sociolinguistic status**: Under increasing pressure from Standard Hindi, Urdu, and English, with reduced intergenerational transmission in many contexts
 
-## Azamgarhi Language Map
+---
 
-A map illustrating the linguistic boundaries of Azamgarhi and its dialects. The Southern dialect is considered the standard by the community.
+## Geographic distribution
+
+The map below illustrates the approximate geographic extent of Azamgarhi and its major dialectal areas. The Southern variety is often regarded by speakers as the most representative or widely intelligible form.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1anRY-7Ur-E4LlwbwE79H2YTv-1ePDAPq" width="80%" height="600"></iframe>
 
+---
+
 ## Documentation of Azamgarhi
 
-The project aims at comprehensive documentation of Azamgarhi. Materials are archived at 'The Computational Resource for South Asian Languages' (CoRSAL) at the University of North Texas (UNT) Digital Library. Visit the [Azamgarhi Language Resources](https://digital.library.unt.edu/explore/collections/AZLR/){:target="_blank"} for more information.
+My work on Azamgarhi focuses on **language documentation and description**, with particular attention to morphosyntax and verbal morphology. The project aims to create a durable, accessible documentary record of the language based on naturalistic data.
+
+All materials are archived with the **Computational Resource for South Asian Languages (CoRSAL)** at the University of North Texas Digital Library.  
+The collection can be accessed here:  
+[Azamgarhi Language Resources (CoRSAL)](https://digital.library.unt.edu/explore/collections/AZLR/){:target="_blank"}
 
 ### Fieldwork
 
-Data was collected in Azamgarh district and from relatives in Mumbai. The author, a semi-speaker of Azamgarhi, aims for further fieldwork.
+Primary data were collected in Azamgarh district, supplemented by recordings with speakers residing in Mumbai. As a heritage speaker with long-term community ties, I combine insider knowledge with standard documentary and analytical methods. While the existing corpus dates mainly from late 2019 onwards, further documentation remains a long-term goal.
 
-### Archiving
+### Archiving and genres
 
-The collection includes various genres, with materials dating from late 2019. Descriptions are provided in Urdu and Hindi where possible.
+The archived collection includes multiple genres, such as narratives, conversations, and elicited materials. Descriptive metadata and annotations are provided in **Urdu and Hindi** where possible, in line with community preferences and accessibility.
 
 <iframe src="https://digital.library.unt.edu/explore/collections/AZLR/" width="80%" height="600" style="border:none;"></iframe>
 
-## Language Revitalization
+---
 
-### A Special Presentation on YouTube
+## Community-oriented activities
 
-Traditional stories in Azamgarhi are presented on the author's YouTube channel, targeting children and L2 speakers. Visit the [playlist](https://www.youtube.com/playlist?list=PLRt2XC79sI4atObD-mM59oLaNaZPVBcSO){:target="_blank"} for more.
+Alongside academic documentation, I engage in modest community-facing activities aimed at increasing awareness and accessibility of Azamgarhi, especially for younger speakers and learners. These include curated storytelling materials and informal dissemination of language-related content through online platforms. These efforts are intended as supplementary outreach rather than as primary documentation outputs.
 
-### The Azamgarhi Community Resources Facebook Group
+---
 
-A platform for engaging with Azamgarhi language materials. Join the [Facebook group](https://www.facebook.com/groups/3912228612196772){:target="_blank"} to connect with the community.
+## M.Phil. thesis on Azamgarhi verb morphology
 
-### The Azamgarhi Language Account on Instagram
+My M.Phil. thesis,  
+**_Verb morphology in Awadhi of Azamgarh_**,  
+completed at Jawaharlal Nehru University, New Delhi, is the first detailed grammatical study devoted specifically to Azamgarhi verbal morphology.
 
-To view the post on the Azamgarhi language materials, please visit the [Instagram Profile of Azamgarhi Language](https://www.instagram.com/the_azamgarhi_language/){:target="_blank"}.
+The study provides a systematic analysis of derivational and inflectional morphology in the finite verb, based primarily on data from the Southern variety. Particular attention is paid to **theme formation**, **aspect–mood interactions**, and the role of **realis–irrealis distinctions** within the broader Eastern Hindi context.
 
-## M.Phil. Thesis on Azamgarhi Verb Morphology
-
-This study, titled ["Verb Morphology in Awadhi of Azamgarh"](https://zenodo.org/record/5704835){:target="_blank"}, is the first detailed description of the (finite) verb morphology in Azamgarhi. Conducted as part of my M.Phil. thesis at Jawaharlal Nehru University, it explores the derivation and inflection in Azamgarhi verbal morphology, based on analysis from the Southern dialect. The research provides a comprehensive structural and functional account of theme formation in Eastern Hindi languages, with a focus on realis–irrealis modal concepts in Azamgarhi.
+[PDF](https://digital.library.unt.edu/ark:/67531/metadc2125342/){:target="_blank"}
