@@ -43,8 +43,11 @@ $(document).ready(function(){
 			rel: 'stylesheet',
 			href: '/assets/css/dark.css'
 		});
-		$('#theme-toggle').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
+		$('#theme-toggle').empty().append("<i class='fa-solid fa-sun'></i>");
 		$('html').attr('data-theme', 'dark');
+	} else {
+		$('#theme-toggle').empty().append("<i class='fa-solid fa-moon'></i>");
+		$('html').attr('data-theme', 'light');
 	}
 
 	// Handle 'About Me' content
@@ -184,8 +187,8 @@ $('#background').click(function(e) {
 	// Theme toggle button functionality
 	$('#theme-toggle').click(function(e) {
 		if(localStorage.theme != "dark"){
-			// Switch to dark mode
-			$('#theme-toggle').empty().append("<i class='fa-duotone fa-lightbulb-slash'></i>");
+			// Switch to dark mode - show sun icon
+			$('#theme-toggle').empty().append("<i class='fa-solid fa-sun'></i>");
 			localStorage.theme = "dark";
 			$('html').attr('data-theme', 'dark');
 			
@@ -197,8 +200,8 @@ $('#background').click(function(e) {
 			});
 		}
 		else {
-			// Switch to light mode
-			$('#theme-toggle').empty().append("<i class='fa-duotone fa-lightbulb'></i>");
+			// Switch to light mode - show moon icon
+			$('#theme-toggle').empty().append("<i class='fa-solid fa-moon'></i>");
 			localStorage.theme = "light";
 			$('html').attr('data-theme', 'light');
 			
