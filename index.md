@@ -7,8 +7,7 @@ cv_date: "01/2026"
 <div class="col-md-12 mb-5 active" id="aboutContent">
 
 <p>
-Hi! My name is Maaz Ahmad Shaikh [Pronounciation: mäːz ɛɦˈmɐd̪ ʃeːχ (Urdu) / mɐˈʕaːð ɐħˈmɐd̪ ʃɐj̯x (Arabic)] 
-(UR/AR: معاذ احمد شیخ; HI: माज़ अहमद शेख़).
+Hi! My name is Maaz Ahmad Shaikh (UR/AR: معاذ احمد شیخ; HI: माज़ अहमद शेख़; pronounced as: mäːz ɛɦˈmɐd̪ ʃeːχ [Urdu] / mɐˈʕaːð ɐħˈmɐd̪ ʃɐj̯x [Arabic]).
 </p>
 
 <p>
