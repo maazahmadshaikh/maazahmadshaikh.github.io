@@ -11,12 +11,14 @@ Hi! My name is Maaz Ahmad Shaikh (UR/AR: معاذ احمد شیخ; HI: माज
 </p>
 
 <p>
-I am a PhD Candidate and Teaching Assistant in the Department of Linguistics
-at the University of Alberta (Edmonton, Canada).
-My dissertation, <em>Towards a grammatical description of Zangskari</em>,
-is expected to be defended in April 2026.
-My supervisor is Jorge Emilio Rosés Labrada, and my committee members are
-Benjamin Tucker and Shobhana Chelliah.
+I am a linguist based in Edmonton, Canada. I completed my PhD in Linguistics
+at the University of Alberta in September 2026 with a dissertation titled
+<em>Towards a grammatical description of Zangskari</em>,
+supervised by Jorge Emilio Rosés Labrada, with committee members
+Benjamin Tucker, Shobhana Chelliah, and David Beck.
+I currently work as a researcher and GIS specialist with Kinspeak,
+contributing to Métis oral history, genealogy, and Indigenous Knowledge
+research in the Northwest Territories.
 Prior to joining the University of Alberta, I was a Senior Research Fellow
 at the Centre for Linguistics, Jawaharlal Nehru University (New Delhi, India).
 </p>
@@ -44,8 +46,21 @@ swimming, traveling, reading, and spending time in nature.
 <ul class="recent-updates-list">
 
 <li>
+<i class="fas fa-graduation-cap"></i>
+September 2026 – Successfully defended my PhD dissertation,
+<em>Towards a grammatical description of Zangskari</em>,
+at the University of Alberta.
+</li>
+
+<li>
+<i class="fas fa-file-alt"></i>
+2026 – Manuscript on the sociolinguistic context of Zangskari received a
+revise-and-resubmit decision from <em>Language Documentation and Description</em>.
+</li>
+
+<li>
 <i class="fas fa-briefcase"></i>
-July 2025 – Began freelance Hindi localization work for Google’s Gemini AI model through SIDE Global.
+July 2025 – Began freelance Hindi localization work for AI training data through SIDE Global.
 </li>
 
 <li>
@@ -84,25 +99,29 @@ December 2024 – Awarded the Firebird Foundation for Anthropological Research (
 <p>
 <strong>Zangskari Gesar Epic documentation</strong><br>
 Documentation and annotation of the Zangskari version of the Epic of Gesar,
-supported by the Firebird Foundation for Anthropological Research.
+recorded with two Elder narrators and supported by the Firebird Foundation
+for Anthropological Research.
 The project focuses on building an annotated audiovisual corpus with
 multilingual subtitles and experimental AI-assisted visualizations to
 support both community access and linguistic research.
 </p>
 
 <p>
-<strong>Dissertation research</strong><br>
-Paper-based doctoral dissertation on Zangskari grammar, based on fieldwork
-conducted between 2020 and 2025 in Zangskar, Ladakh.
-The dissertation provides a detailed account of the phonology, morphology,
-and syntax of the language, grounded in a documentary corpus.
+<strong>Publications from the dissertation</strong><br>
+My paper-based dissertation, grounded in a documentary corpus built from
+fieldwork conducted between 2020 and 2025 in Zangskar, Ladakh, is being
+developed into journal publications: a study of grammar writing in Tibetic
+(accepted in <em>Linguistics</em>), a sociolinguistic profile of Zangskari
+(under revision for <em>Language Documentation and Description</em>), and an
+<em>Illustration of the IPA</em> for Zangskari with Benjamin Tucker
+(in preparation for the <em>Journal of the International Phonetic Association</em>).
 </p>
 
 <p>
-<strong>Zangskari language context</strong><br>
-Manuscript prepared for submission to <em>Language Documentation and Description</em>,
-situating Zangskari within its historical, social, and cultural context,
-and integrating archival, ethnographic, and community-based sources.
+<strong>Indigenous Knowledge and oral history research</strong><br>
+With Kinspeak, I contribute to oral history, genealogy, and Indigenous Knowledge
+research for Métis communities in the Northwest Territories, including GIS-based
+land use mapping.
 </p>
 
 <h3 id="snapshots" class="mt-4">Project snapshots</h3>
