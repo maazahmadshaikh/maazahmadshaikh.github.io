@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Maaz Ahmad Shaikh
-cv_date: "01/2026"
+cv_date: "09/2026"
 ---
 
 <div class="col-md-12 mb-5 active" id="aboutContent">
