@@ -11,15 +11,17 @@ Hi! My name is Maaz Ahmad Shaikh (UR/AR: معاذ احمد شیخ; HI: माज
 </p>
 
 <p>
-I am a linguist based in Edmonton, Canada. I completed my PhD in Linguistics
+I am a linguist based in Edmonton, Canada. I currently work as a researcher and GIS specialist with Kinspeak,
+contributing to Métis oral history, genealogy, and Indigenous Knowledge
+research in the Northwest Territories.
+</p>
+
+ <p>
+I completed my PhD in Linguistics
 at the University of Alberta in September 2026 with a dissertation titled
 <em>Towards a grammatical description of Zangskari</em>,
 supervised by Jorge Emilio Rosés Labrada, with committee members
-Benjamin Tucker, Shobhana Chelliah, and David Beck.
-I currently work as a researcher and GIS specialist with Kinspeak,
-contributing to Métis oral history, genealogy, and Indigenous Knowledge
-research in the Northwest Territories.
-Prior to joining the University of Alberta, I was a Senior Research Fellow
+Benjamin Tucker, Shobhana Chelliah, and David Beck. Prior to joining the University of Alberta, I was a Senior Research Fellow
 at the Centre for Linguistics, Jawaharlal Nehru University (New Delhi, India).
 </p>
 
