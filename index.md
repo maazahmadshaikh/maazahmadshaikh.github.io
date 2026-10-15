@@ -11,7 +11,7 @@ Hi! My name is Maaz Ahmad Shaikh (UR/AR: معاذ احمد شیخ; HI: माज
 </p>
 
 <p>
-I am a linguist based in Edmonton, Canada. I currently work as a researcher and GIS specialist with <a href="https://kinspeak.ca" target="_blank" rel="noopener">Kinspeak</a>,
+I am a linguist based in Edmonton, Canada. I currently work as Lead Researcher and GIS Specialist with <a href="https://kinspeak.ca" target="_blank" rel="noopener">Kinspeak</a>,
 contributing to Métis oral history, genealogy, and Indigenous Knowledge
 research in the Northwest Territories.
 </p>
